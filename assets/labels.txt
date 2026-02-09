@@ -1,5 +1,8 @@
-Black Soil
-Cinder Soil
-Laterite Soil
-Peat Soil
-Yellow Soil
+Tanah Aluvium
+Tanah Gambut
+Tanah Gersang
+Tanah Gunung
+Tanah Hitam
+Tanah Kuning
+Tanah Laterit
+Tanah Merah
